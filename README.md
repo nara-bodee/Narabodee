@@ -1,2 +1,2 @@
-# Narabodee
-# Beginner coder with big dreams
+# **Narabodee**
+## Beginner coder with big dreams
